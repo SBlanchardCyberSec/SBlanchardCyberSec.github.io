@@ -27,14 +27,14 @@ Cybersecurity is my passion. When working on and coding these projects for schoo
 
 ---
 ## **Code Review**
-[You can watch the code review here.] (https://youtu.be/kZXiLwinLHw)
+[You can watch the code review here.](https://youtu.be/kZXiLwinLHw)
 
 [The old code for both artifacts is here.](https://github.com/SBlanchardCyberSec/CS-499-Enhancements-Original-Code)
 
 ---
 ## **Enhancement 1 and 2: Software Engineering and Design and Algorithms and Data Structures**
 
-[Here is the repo.] (https://github.com/SBlanchardCyberSec/BattleshipPyGameProject)
+[Here is the repo.](https://github.com/SBlanchardCyberSec/BattleshipPyGameProject)
 
 This Enhancement is taking a BattleShip clone that I wrote in Java and porting it to Python and adding new features such as a GUI and an AI player and fixing bugs. It uses Pygame Community Edition as a library and boasts an improved game loop, a responsive Graphical User Interface, and an AI player with a clear lose condition. 
 
@@ -42,7 +42,7 @@ This Enhancement is taking a BattleShip clone that I wrote in Java and porting i
 ---
 ## **Enhancement 3: Databases**
 
-[Here is the repo.] (https://github.com/SBlanchardCyberSec/CS-499-Database-Enhancement)
+[Here is the repo.](https://github.com/SBlanchardCyberSec/CS-499-Database-Enhancement)
 
 This Enhancement took my Python Dashboard from CS 340 and fixes a few bugs and scaling issues. I also ported the dashboard from a Jupyter Notebook to a Python file for easier portability. Finally, I also removed the hardcoded credentials from the codebase and use system environment variables instead for better security. 
 
